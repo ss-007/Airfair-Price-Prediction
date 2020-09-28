@@ -18,3 +18,9 @@ Link: https://airfair-price-prediction.herokuapp.com/
 This is a Flask web application which predicts fare of Flight ticket.
 
 
+## Deployment on Heroku
+
+To make a web app, login or signup your account. You can either connect your github profile or manually deploy the project. Just follow the instructions given there or refer "Heroku Documentation".
+
+
+
