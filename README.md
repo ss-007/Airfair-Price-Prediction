@@ -9,7 +9,7 @@ The steps involved in this were as follows-
 6. Deployment on Heroku
 
 
-## Demo 
+### Demo 
 
 Link: https://airfair-price-prediction.herokuapp.com/
 
@@ -18,9 +18,12 @@ Link: https://airfair-price-prediction.herokuapp.com/
 This is a Flask web application which predicts fare of Flight ticket.
 
 
-## Deployment on Heroku
+### Deployment on Heroku
 
 To make a web app, login or signup your account. You can either connect your github profile or manually deploy the project. Just follow the instructions given there or refer "Heroku Documentation".
+
+![54](https://user-images.githubusercontent.com/67741034/94430364-64fbe100-01b1-11eb-8df9-faf154e29420.png)
+
 
 
 
